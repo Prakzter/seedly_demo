@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import pickle
 import textcleaner
+import sklearn
+
 
 
 
